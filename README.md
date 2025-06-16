@@ -7,4 +7,4 @@ The code can be run in Colab with a premium account (due to high GPU requirement
 [📄 Read the Full Documentation (PDF)](docs/documentation.pdf)
 
 <!-- Or embed an image preview and link to the PDF -->
-[![Preview](assets/cover.png)](docs/documentation.pdf)
+[![Preview](rotation_collage.png)](docs/documentation.pdf)
